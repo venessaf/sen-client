@@ -5,13 +5,13 @@
 Install from docker index or build from Dockerfile
 
 ```
-docker pull usman/sensu-client
+docker pull venessaf/sensu-client1
 ```
 
 or
 
 ```
-git clone https://github.com/usmanismail/docker-sensu-client.git
+git clone https://github.com/venessaf/sen-client.git
 cd docker-sensu-client
 docker build -t yourname/sensu-client .
 ```
